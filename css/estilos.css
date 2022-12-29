@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header, .paginas{
+    background-color: #E6F5FF;
+}
+
+.copyright{
+    background-color: #A1ACB3;
+}

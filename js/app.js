@@ -47,6 +47,3 @@ for(let i=1; i < n+1 ; i++){
     suma(nota1, nota2, nota3);
     alert("La nota final de " + nombre  + " " + apellido + " es " + suma(nota1, nota2, nota3));
 }
-
-// let promeTotal = (notaFinal/n);
-// alert("El promedio de las notas finales del curso es: " + promeTotal);
